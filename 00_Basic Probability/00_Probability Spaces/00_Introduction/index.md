@@ -9,4 +9,4 @@ A probability is the measure of of the likelihood that an event will occur.  Thi
 
 This may feel excessively basic, but understanding these key underlying premisses allow us to build an understanding of the world around us based on the likelihood that an event will occur!
 
-In the next lecture we will explore sample spaces which allow us to understand **all** of the outcomes which will help us to begin to decompose what is a probability!
+In the next lecture we will explore sample spaces which allow us to understand **all** of the outcomes which will help us to begin to decompose **what is a probability!**
