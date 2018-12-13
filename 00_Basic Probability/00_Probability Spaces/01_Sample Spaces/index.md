@@ -22,4 +22,6 @@ Suppose that you draw a single card from a deck
 
 - **Sample Space 4:** The spaces consists of 2 outcomes, picture & non picture
 
-These are just a few of the sample spaces that you can define from a single experiment, but it is impertinent that you define you sample spaces well, otherwise, probabilities are meaningless!!
+These are just a few of the sample spaces that you can define from a single experiment, but it is impertinent that you define you sample spaces well, otherwise, probabilities are meaningless!
+
+Any outcome or collection of outcomes in a sample space is called an _event_.  In the example where the only two outcomes are either **Black** or **Red**, each event has 26 points.  This may feel counterintuitive but as you explore more probabilities, you'll find this begins to make sense.  In the next card we will begin to explore what defines a probability space.
