@@ -1,3 +1,7 @@
+# Intro to Statistics with EXL skills!
+
+Want to get into the exciting & high paying world of **Machine Learning** and **AI**? All of the algorithms that drive these new hot topics are built on a deep understanding of statistics and how we can use statistics to interpret our world!  This class will introduce you to multitude of basic probability and statistics topics.  Have fun!
+
 # EXLskills Free & Open-source Courseware Template
 
 This is the EXLskills free and open-source template. It includes a checklist, license, readme, and an index.yaml file to help you get started with creating an EXLskills-compatible course!
