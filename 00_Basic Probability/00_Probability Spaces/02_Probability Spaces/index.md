@@ -9,4 +9,13 @@
 If **A** is an event and **P(A)** denotes the probability of A, then:
 - **P(A)** = sum of all the probabilities of the outcome in the event A
 
-** A _sample space_ together with an assignment of probabilities to events is called a **Probability Space**
+#### Probability Space Definition:
+A _sample space_ together with an assignment of probabilities to events is called a **Probability Space**
+
+In general it is important to remember the following formula:
+
+- P(event)= (Number of outcomes in the event)/(Total Number of outcomes)
+
+Which is the same as:
+
+- (Favorable Outcomes)/ (Total Outcomes)
