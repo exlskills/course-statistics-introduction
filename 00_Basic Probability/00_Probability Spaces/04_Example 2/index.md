@@ -20,3 +20,8 @@ Therefore, the probability of an ACE = 1/32 + 1/32 + 1/32 + 1/32 as Aces are fac
 This is equivalent to the probabilities of the 10's + probabilities of the pictures.
 
 In this case, our final Probability is: 4 * 1/72 + 16 * 1/32.  Nice!
+
+
+#### Complimentary (Opposite) Events
+
+Given event A, the **P(A) + (1 - P(A))** will always = 1
