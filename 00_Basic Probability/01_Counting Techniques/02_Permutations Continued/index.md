@@ -20,7 +20,7 @@ A good example of this is:
 **Solution:**
 
 Since repetition is not allowed, in this case n = 5, and r = 3.  So our equation becomes:
-- 5!/(5-3!) = 5*4*3 = 60 unique codes!
+- 5!/(5-3!) = 5*4*3 = 60 unique codes!!
 
 
 
