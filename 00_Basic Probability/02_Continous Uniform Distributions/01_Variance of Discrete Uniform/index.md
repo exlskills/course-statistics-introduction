@@ -1,9 +1,9 @@
-### Title Goes Here -- Make it different than the folder name
-#### Subtitle goes here
-Text goes here
- ```
- you can also add code using triple ticks
-```
- `or you can do inline code with single quotes` 
- #### here is another subtitle 
- and some text below it 
+### How to calculate the variance
+
+Now that we where able to calculate the mean for the discrete uniform distribution, lets see if we can calculate the variance of rolling a dice. Since we started with the mean, it makes sense that we are going to use this in calculating the variance.
+
+What is the **variance?**
+
+- it measures how far a set of (random) numbers are spread out from their average value.
+
+In this case
